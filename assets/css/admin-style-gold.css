@@ -1,0 +1,65 @@
+/* Default */
+.infinity-gold-price p{color: #ffffff;margin: 0;font-size: 15px;line-height: 24px;padding: 5px 0 5px 5px;}
+.infinity-gold-price label{font-family: system-ui;font-size: 14px;color: #ffffff;cursor: auto;}
+.infinity-gold-price a{text-decoration: none;color: #ffffff;cursor: pointer;}
+.infinity-gold-price a:hover{color: #ffeb00;}
+.infinity-gold-price h1{color: #2b71b1;}
+.infinity-gold-price h2{color: #ffffff;margin: 0;font-size: 20px;line-height: 28px;}
+.infinity-gold-price h3{color: #ffffff;margin: 0;font-size: 20px;line-height: 28px;}
+.infinity-gold-price .button-primary{background: #C41E3A;color: #ffffff;font-weight: 600;border-radius: 50px;padding: 10px 50px;font-size: 16px;line-height: 32px;border: 0;}
+.infinity-gold-price .button-primary:hover,.infinity-gold-price .button-primary.btn-green:hover{background: #000000;border: 0;}
+.infinity-gold-price .button-primary.btn-green {background: #2AAA8A;color: #ffffff;}
+/* Default */
+
+/* Container */
+.infinity-wrapper{width: 1080px;max-width: 96%;margin: 50px auto;background: #2b71b1;border-radius: 10px;box-shadow: 8px 8px 30px 0px rgba(42, 67, 113, 0.15);-webkit-box-shadow: 8px 8px 30px 0px rgba(42, 67, 113, 0.15);-moz-box-shadow: 8px 8px 30px 0px rgba(42, 67, 113, 0.15);}
+/* Container */
+
+/* Header */
+.infinity-header{display: flex;background-color: #ffffff;padding: 15px 20px;align-items: center;justify-content: space-between;border-top-left-radius: 10px;border-top-right-radius: 10px;}
+.infinity-logo img{width: 150px;display: block;}
+/* Header */
+
+/* Footer */
+.infinity-footer{display: flex;background-color: #1d2327;padding: 15px 20px;align-items: center;justify-content: space-between;border-bottom-left-radius: 10px;border-bottom-right-radius: 10px;}
+/* Footer */
+
+/* Setting Page Content Part */
+.infinity-form{
+    border-bottom: 1px solid #ffffff;
+    padding: 20px 0;
+    margin-bottom: 20px;
+}
+.infinity-form input[type=text]{
+    width: 100% !important;height: 40px;border: 0 !important;border-radius: 0;box-shadow: none;
+}
+.infinity-form input[type=submit]{
+    margin-top: 30px;background: #2AAA8A;
+}
+.infinity-form th{
+    color: #ffffff;font-size: 16px;padding: 20px 0 0 0;
+}
+.infinity-form td{
+    padding: 10px 0px;
+}
+.infinity-gold-price h2{position: relative;padding-left: 40px;}
+.infinity-gold-price h2 > span {content: '';position: absolute;top: 0;left: 0;height: auto;width: 34px;background-size: 100%;}
+.infinity-gold-price h2 > span img{width: 32px;}
+#infinity-container {padding: 50px 30px;}
+.infinity-sub-title {padding: 0 0 10px 0;border-bottom: 1px solid #ffffff;}
+.infinity-gold-price .ai_search_bar_form{padding: 30px 0 0;}
+.infinity-description label{padding-bottom: 10px;font-size: 14px;color: #ffeb00;font-weight: 500;}
+.infinity-description label span {color: #ffffff;font-size: 16px;}
+.infinity-description a:hover{color: #ffffff;text-decoration: underline;}
+/* Setting Bar Page Content Part */
+
+/* Documentation Section Content Part */
+.infinity-gold-price h2{position: relative;padding-left: 40px;}
+.infinity-gold-price h2 > span {content: '';position: absolute;top: 0;left: 0;height: auto;width: 34px;background-size: 100%;}
+.infinity-gold-price h2 > span img{width: 32px;}
+.infinity-documentation .infinity-sub-title {margin: 20px 0;}
+a.link-yellow {color: #ffffff;border-bottom: 1px solid #ffeb00;}
+a.link-yellow:hover{color:  #ffeb00;}
+.infinity-documentation #infinity-container {padding: 30px 30px;}
+span.short-code-design {color: #ffeb00;font-weight: 600;border: 1px dotted;padding: 5px;}
+/* Documentation Section Content Part */
